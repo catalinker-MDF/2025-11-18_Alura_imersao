@@ -1,0 +1,253 @@
+[
+  {
+    "identificacao": "Kepler-22b",
+    "tipo": "Superterra",
+    "detecao": "Trânsito",
+    "ano": "2011",
+    "tags": [
+      "habitavel",
+      "confirmado"
+    ]
+  },
+  {
+    "identificacao": "HD 209458 b",
+    "tipo": "Gigante Gasoso",
+    "detecao": "Trânsito",
+    "ano": "1999",
+    "tags": [
+      "Júpiter Quente",
+      "atmosfera detectada"
+    ]
+  },
+  {
+    "identificacao": "TRAPPIST-1e",
+    "tipo": "Planeta Terrestre",
+    "detecao": "Trânsito",
+    "ano": "2017",
+    "tags": [
+      "rocha",
+      "zona habitavel",
+      "sistema múltiplo"
+    ]
+  },
+  {
+    "identificacao": "Proxima Centauri b",
+    "tipo": "Superterra",
+    "detecao": "Velocidade Radial",
+    "ano": "2016",
+    "tags": [
+      "estrela vizinha",
+      "candidato a habitavel"
+    ]
+  },
+  {
+    "identificacao": "51 Pegasi b",
+    "tipo": "Gigante Gasoso",
+    "detecao": "Velocidade Radial",
+    "ano": "1995",
+    "tags": [
+      "primeiro exoplaneta",
+      "Júpiter Quente"
+    ]
+  },
+  {
+    "identificacao": "WASP-12b",
+    "tipo": "Júpiter Quente",
+    "detecao": "Trânsito",
+    "ano": "2008",
+    "tags": [
+      "extremo",
+      "em evaporação"
+    ]
+  },
+  {
+    "identificacao": "GJ 1214 b",
+    "tipo": "Netuniano",
+    "detecao": "Trânsito",
+    "ano": "2009",
+    "tags": [
+      "planeta aquático",
+      "atmosfera espessa"
+    ]
+  },
+  {
+    "identificacao": "Kepler-16b",
+    "tipo": "Gigante Gasoso",
+    "detecao": "Trânsito",
+    "ano": "2011",
+    "tags": [
+      "circumbinário",
+      "análogo de Tatooine"
+    ]
+  },
+  {
+    "identificacao": "HR 8799 e",
+    "tipo": "Gigante Gasoso",
+    "detecao": "Imagem Direta",
+    "ano": "2010",
+    "tags": [
+      "jovem",
+      "múltiplos planetas"
+    ]
+  },
+  {
+    "identificacao": "CoRoT-7b",
+    "tipo": "Planeta de Lava",
+    "detecao": "Trânsito",
+    "ano": "2009",
+    "tags": [
+      "ultracurto período",
+      "rocha"
+    ]
+  },
+  {
+    "identificacao": "K2-18b",
+    "tipo": "Netuniano",
+    "detecao": "Trânsito",
+    "ano": "2015",
+    "tags": [
+      "potencialmente habitavel",
+      "água"
+    ]
+  },
+  {
+    "identificacao": "OGLE-2005-BLG-390Lb",
+    "tipo": "Superterra",
+    "detecao": "Micro Lentes Gravitacionais",
+    "ano": "2006",
+    "tags": [
+      "frio",
+      "distante"
+    ]
+  },
+  {
+    "identificacao": "Kepler-186f",
+    "tipo": "Superterra",
+    "detecao": "Trânsito",
+    "ano": "2014",
+    "tags": [
+      "zona habitavel",
+      "primeira superterra"
+    ]
+  },
+  {
+    "identificacao": "LHS 1140 b",
+    "tipo": "Superterra",
+    "detecao": "Trânsito",
+    "ano": "2017",
+    "tags": [
+      "rocha densa",
+      "habitavel"
+    ]
+  },
+  {
+    "identificacao": "HD 189733 b",
+    "tipo": "Gigante Gasoso",
+    "detecao": "Trânsito",
+    "ano": "2005",
+    "tags": [
+      "chuva de vidro",
+      "azul cobalto"
+    ]
+  },
+  {
+    "identificacao": "Kepler-90h",
+    "tipo": "Gigante Gasoso",
+    "detecao": "Trânsito",
+    "ano": "2017",
+    "tags": [
+      "sistema de 8 planetas",
+      "detetado por IA"
+    ]
+  },
+  {
+    "identificacao": "PSR B1257+12 B",
+    "tipo": "Planeta Terrestre",
+    "detecao": "Timing de Pulsar",
+    "ano": "1992",
+    "tags": [
+      "primeiro exoplaneta",
+      "planeta de pulsar"
+    ]
+  },
+  {
+    "identificacao": "TOI-700 d",
+    "tipo": "Superterra",
+    "detecao": "Trânsito",
+    "ano": "2020",
+    "tags": [
+      "habitavel",
+      "descoberto pelo TESS"
+    ]
+  },
+  {
+    "identificacao": "Gliese 667 Cc",
+    "tipo": "Superterra",
+    "detecao": "Velocidade Radial",
+    "ano": "2011",
+    "tags": [
+      "zona habitavel",
+      "sistema triplo"
+    ]
+  },
+  {
+    "identificacao": "Kepler-452b",
+    "tipo": "Superterra",
+    "detecao": "Trânsito",
+    "ano": "2015",
+    "tags": [
+      "análogo da Terra",
+      "antigo"
+    ]
+  },
+  {
+    "identificacao": "WASP-17b",
+    "tipo": "Gigante Gasoso",
+    "detecao": "Trânsito",
+    "ano": "2009",
+    "tags": [
+      "retrógrado",
+      "super-inflado"
+    ]
+  },
+  {
+    "identificacao": "55 Cancri e",
+    "tipo": "Superterra",
+    "detecao": "Trânsito",
+    "ano": "2011",
+    "tags": [
+      "ultracurto período",
+      "diamante"
+    ]
+  },
+  {
+    "identificacao": "GJ 504 b",
+    "tipo": "Gigante Gasoso",
+    "detecao": "Imagem Direta",
+    "ano": "2013",
+    "tags": [
+      "rosa",
+      "jovem"
+    ]
+  },
+  {
+    "identificacao": "KELT-9b",
+    "tipo": "Júpiter Ultrarquente",
+    "detecao": "Trânsito",
+    "ano": "2017",
+    "tags": [
+      "mais quente",
+      "atmosfera em colapso"
+    ]
+  },
+  {
+    "identificacao": "LTT 1445 A b",
+    "tipo": "Superterra",
+    "detecao": "Trânsito",
+    "ano": "2019",
+    "tags": [
+      "próximo",
+      "estrela tripla"
+    ]
+  }
+]
